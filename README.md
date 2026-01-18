@@ -5,6 +5,7 @@ This application consists of two main components:
 - Backend: ASP.NET Core Web API with MySQL database
 - Frontend: Next.js application with Tailwind
 
+### Frontend has been live deployed to https://hfilesproj.vercel.app
 ## Prerequisites
 
 ### System Requirements
